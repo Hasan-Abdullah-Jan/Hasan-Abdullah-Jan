@@ -106,13 +106,13 @@ More small projects and experiments will show up in my [repositories](https://gi
 **BS Computer Science** — [GU TECH (Ghazali University School of Technology)](https://www.gutech.edu.pk)
 📅 Expected graduation: **2030**
 
-<br/>
+<!-- <br/>
 
 ## 🎬 Beyond Code
 
 Outside of programming, I enjoy digital media and content creation — video editing and community content with [Al-Shams Media](https://www.youtube.com/@alshamsmedia). I'm also studying traditional Islamic studies alongside my degree. You can find more about these on my [portfolio](https://hasan-abdullah-jan.vercel.app/).
 
-<br/>
+<br/> -->
 
 ## 📊 GitHub Stats
 
